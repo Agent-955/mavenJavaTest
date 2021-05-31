@@ -11,5 +11,7 @@ public class Solution {
         Solution solution = new Solution();
         String str = solution.reverseLeftWords("阿拉伯半岛",3);
         System.out.println(str);
+
+        System.out.println("修改版本");
     }
 }
