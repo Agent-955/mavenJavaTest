@@ -13,5 +13,6 @@ public class Solution {
         System.out.println(str);
 
         System.out.println("修改版本");
+        System.out.println("cool版本");
     }
 }
